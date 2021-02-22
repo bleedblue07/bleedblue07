@@ -17,3 +17,5 @@
 <p align="left"><a href="https://github.com/duttabhishek32/duttabhishek32">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleedblue07&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
 </a></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bleedblue07&show_icons=true" alt="bleedblue07" /></p>
